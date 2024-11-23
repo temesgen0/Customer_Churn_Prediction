@@ -118,7 +118,7 @@ jupyter notebook ChurnCustomers.ipynb
 - Logistic Regression: Accuracy = 75%
 - Random Forest: Accuracy = 78%
 - XGBoost: Accuracy = 77%
-- XGBoost: Accuracy = 75%
+- tensorflowgit add: Accuracy = 75%
 
 ### Insights
 
